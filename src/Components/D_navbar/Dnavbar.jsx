@@ -27,7 +27,7 @@ function Dnavbar() {
                             </nav>
 
                             <div className='flex items-center space-x-7'>
-                            <Link to='/' className='text-transparent bg-clip-text font-bold bg-gradient-to-r from-[#850FFD] to-[#DF10FD]  px-4 py-1 rounded-md '>Switch to Buying</Link>
+                            {/* <Link to='/' className='text-transparent bg-clip-text font-bold bg-gradient-to-r from-[#850FFD] to-[#DF10FD]  px-4 py-1 rounded-md '>Switch to Buying</Link> */}
                                 <button>
                                     <img src={icon01} alt="messages icon" className='w-6 cursor-pointer'/>
                                     

@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.gcolor{
+ @apply:bg-gradient-to-r from-[#850FFD] to-[#DF10FD];
+}
